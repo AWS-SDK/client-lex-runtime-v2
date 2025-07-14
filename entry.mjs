@@ -1,1 +1,1 @@
-export * from "@aws-sdk/{repoName}";
+export * from "@aws-sdk/client-lex-runtime-v2";
